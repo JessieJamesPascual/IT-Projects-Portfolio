@@ -1,90 +1,46 @@
 # IT-Projects-Portfolio
-👋 Hi, I'm Jessie James Pascual!
 
-🎓 BSIT Student | Aspiring IT Professional
+# Jessie James P. Pascual
+### BSIT Student | Aspiring IT Professional
 
-Welcome to my GitHub portfolio! I'm an Information Technology student at PHINMA Cagayan de Oro College, passionate about technology, system development, and exploring new things in IT.
+---
 
-📌 About Me
+## About Me
 
-🎓 Currently pursuing Bachelor of Science in Information Technology
+I'm an Information Technology student at **PHINMA Cagayan de Oro College** interested in programming, web development, and system design. I enjoy creating projects, solving problems, and improving my technical skills.
 
-💻 Interested in programming and system development
+## Tech Stack
 
-🧠 Enjoy solving problems and learning through projects
+- Java
+- HTML, CSS, JavaScript
+- MySQL, MongoDB
+- NetBeans, VS Code
+- Cisco Packet Tracer
+- Microsoft Office
 
-🤝 Experienced in collaborating on academic projects
+## Projects
 
-🚀 Continuously improving my technical skills
+| Project | Description |
+|---|---|
+| DEX Carwash | Carwash Management System |
+| HANS | Academic IT Project |
+| Sinulom Resort | Resort Management System |
+| PATINBALL | Patintero × Basketball |
+| Cell Doctor 2 | Marketing System |
+| CEDAR | Ecotourism Management System |
 
-🛠️ Technical Skills
+## Goals
 
-Category
+To gain experience, develop my technical skills, and grow as an IT professional.
 
-Skills
+---
 
-Programming
+## Contact
 
-Basic Java
+📧 **Email:** jessiejamespascual20@gmail.com
 
-Web Development
+🐙 **GitHub:** [JessieJamesPascual](https://github.com/JessieJamesPascual)
 
-HTML, CSS, JavaScript
+---
 
-Database
-
-MySQL, MongoDB
-
-Tools
-
-NetBeans, VS Code
-
-Networking
-
-Cisco Packet Tracer
-
-Documentation
-
-Microsoft Word, Excel, PowerPoint
-
-📂 Academic Projects
-
-Project
-
-Description
-
-DEX Carwash System
-
-Carwash business management system
-
-HANS
-
-Academic IT project
-
-Sinulom Resort
-
-Resort management system
-
-PATINBALL
-
-Patintero and basketball game concept
-
-Cell Doctor 2 Marketing System
-
-Marketing and information management system
-
-CEDAR
-
-Ecotourism management and reservation system
-
-🎯 Career Goals
-
-To gain practical experience, strengthen my technical skills, and pursue opportunities that will help me grow as an IT professional.
-
-📫 Connect With Me
-
-Email: yvesdwightbalingit@gmail.com
-
-GitHub: @JessieJamesPascual
-
-⭐ Thank you for visiting my portfolio!
+*Thanks for visiting my portfolio!*
