@@ -1,5 +1,7 @@
 # IT-Projects-Portfolio
 My academic projects and activities as a BSIT student.
+IT Projects Portfolio
+
 Hello! I'm Jessie James P. Pascual, a Bachelor of Science in Information Technology student at PHINMA Cagayan de Oro College.
 
 This repository contains my academic projects, system developments, and activities throughout my IT journey.
